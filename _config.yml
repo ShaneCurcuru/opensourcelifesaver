@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Open Source Lifesaver
+logo: /assets/img/lifesaver.png
+description: Let Punderthings Be Your Open Source Lifesaver!
+show_downloads: true
+google_analytics:
