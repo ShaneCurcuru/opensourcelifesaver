@@ -1,6 +1,17 @@
 theme: jekyll-theme-minimal
 title: Open Source Lifesaver
 logo: /assets/img/lifesaver.png
-description: Let Punderthings Be Your Open Source Lifesaver!
+description: Let Punderthings℠ Be Your Open Source Lifesaver!
 show_downloads: false
 google_analytics:
+
+author: Shane Curcuru
+twitter:
+  username: shanecurcuru
+  card: summary
+social:
+  name: Punderthings℠ LLC
+  links:
+    - http://punderthings.com/
+    - http://shanecurcuru.org/
+
